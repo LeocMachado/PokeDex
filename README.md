@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://pokedex-leonardo-machado.netlify.app/" target="Blank"> Portfólio </a></h1>
+  <a href="https://pokedex-leonardo.netlify.app/" target="Blank"> PokeDex </a></h1>
 </h1>
 
 <div style="display: inline_block">
@@ -15,6 +15,6 @@
 <div style="display: inline_block">
   
 <a href = "mailto:lc.leonardo.machado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="linkedin.com/in/leonardo-machado-lc2003" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/leonardo-machado-lc2003" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
