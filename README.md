@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://pokedex-leonardo-machado.netlify.app/" target="Blank"> PokeDex </a></h1>
+  <a href="https://pokedex-leonardo.netlify.app/" target="Blank"> PokeDex </a></h1>
 </h1>
 
 <div style="display: inline_block">
